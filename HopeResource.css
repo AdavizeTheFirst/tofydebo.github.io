@@ -83,7 +83,7 @@
         text-align: center;
         z-index: 15;
        position: absolute;
-        top: 60px;
+        top: 120px;
         right: 10%;
         left: 10%;
         font-size: 12px;
@@ -208,7 +208,7 @@
      line-height: 1.5;
      background-color: lavender;
  border-radius: 20px;
- padding: 30px;
+ padding: 15px;
  }
  
  
@@ -229,7 +229,7 @@
          line-height: 1.5;
 
  border-radius: 20px;
- padding: 15px;
+ padding: 10px;
  
      }
  
@@ -252,7 +252,7 @@
  
  #servicesa {
      background-color: green;
-     padding: 25px;
+     padding: 15px;
  margin-bottom: 0;
  color: white;
  border-radius: 20px;
