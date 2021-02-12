@@ -438,7 +438,7 @@
              text-align: center;
              box-shadow: 0 5px #999;
            text-decoration: none;
-animation-name: button;
+animation-name: donate;
   animation-duration: 3s;
   animation-delay: 1s;
   animation-fill-mode: backwards;
@@ -446,9 +446,8 @@ animation-name: button;
   animation-timing-function: ease-in-out;
 }
 
-@keyframes button {
-  from {
-    
+@keyframes donate {
+ from {
    transform: scale(0);
   }
   to {
